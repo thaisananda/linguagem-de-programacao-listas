@@ -1,3 +1,9 @@
+/*
+ OBJETIVO: Receba um número inteiro. Calcule e mostre a série de Fibonacci até o seu N’nésimo termo.
+ PROGRAMADOR: THAIS ANANDA
+ DATA DE CRIAÇÃO: 15/03/2026
+ */
+
 package lista.repetição;
 
 import javax.swing.JOptionPane;
