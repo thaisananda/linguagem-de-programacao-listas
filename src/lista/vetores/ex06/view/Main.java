@@ -1,7 +1,8 @@
-package lista.vetores.lt2.ex06.view;
+package lista.vetores.ex06.view;
 
-import estvet_lt2_ex06.controller.Controller06;
 import javax.swing.JOptionPane;
+
+import lista.vetores.ex06.controller.Controller06;
 
 public class Main {
 	

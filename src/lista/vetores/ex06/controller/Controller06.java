@@ -1,4 +1,4 @@
-package estvet_lt2_ex06.controller;
+package lista.vetores.ex06.controller;
 
 import javax.swing.JOptionPane;
 

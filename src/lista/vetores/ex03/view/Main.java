@@ -7,11 +7,11 @@ VT1|	1|	2|	3|	|VT2|	4|	5|	6|	|VT3|	1|	2|	3|	4|	5|	6
  DATA DE CRIAÇÃO: 26/03/2026
  */
 
-package estvet_lt2_ex03.view;
+package lista.vetores.ex03.view;
 
 import javax.swing.JOptionPane;
 
-import estvet_lt2_ex03.controller.Controller03;
+import lista.vetores.ex03.controller.Controller03;
 
 public class Main {
 	

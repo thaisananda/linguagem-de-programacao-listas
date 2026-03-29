@@ -1,4 +1,4 @@
-package estvet_lt2_ex01;
+package lista.vetores.ex01;
 
 import javax.swing.*;
 

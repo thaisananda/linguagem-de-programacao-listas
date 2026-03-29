@@ -6,11 +6,11 @@ b.	A média dos valores.
  DATA DE CRIAÇÃO: 26/03/2026
  */
 
-package estvet_lt2_ex02.view;
+package lista.vetores.ex02.view;
 
 import javax.swing.*;
 
-import estvet_lt2_ex02.controller.Controller02;
+import lista.vetores.ex02.controller.Controller02;
 
 public class Main {
 	
