@@ -9,6 +9,7 @@ public class ClasseMetodos {
 	public Aluno[] GravaAluno(Aluno[] aluno) throws IOException {
 		
 		int i;
+		
 		String fileName = "ArquivoAluno.txt";
 		
 		BufferedWriter gravar = new BufferedWriter(new FileWriter(fileName));
@@ -26,7 +27,7 @@ public class ClasseMetodos {
 			gravar.newLine();
 			
 			aluno[i].unome = JOptionPane.showInputDialog("Entre o sobrenome do aluno:");
-			gravar.write( aluno[i].unome ); 
+			gravar.write(aluno[i].unome); 
 	        gravar.newLine();	
 	        
 	        aluno[i].pontos = Integer.parseInt(JOptionPane.showInputDialog("Pontos: "));	
